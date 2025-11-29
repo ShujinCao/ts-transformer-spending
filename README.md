@@ -1,7 +1,7 @@
 # ts-transformer-spending
 This project applies a Time-Series Transformer (TST) architecture using PyTorch + Hugging Face to forecast national health expenditure using public datasets (e.g., OECD/World Bank GHED).
 
-# Features
+### Features
 
 Time Series Transformer implemented from scratch (PyTorch)
 
@@ -11,9 +11,9 @@ Config-driven experiments (configs/*.yaml)
 
 Clean Jupyter notebooks for exploration → preprocessing → training → evaluation
 
-# Repository Structure
+### Repository Structure
 CLI scripts for training and evaluation
-
+```text
 ts-transformer-spending/
 │
 ├── data/
@@ -44,8 +44,9 @@ ts-transformer-spending/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
-# Model Overview: Time Series Transformer (TST)
+### Model Overview: Time Series Transformer (TST)
 
 This project uses a Transformer Encoder architecture adapted for forecasting:
 
