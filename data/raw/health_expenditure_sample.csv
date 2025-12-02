@@ -1,0 +1,22 @@
+country,iso3,year,value
+United States,USA,2000,4531.12
+United States,USA,2001,4758.99
+United States,USA,2002,4927.95
+United States,USA,2003,5150.34
+United States,USA,2004,5432.74
+United Kingdom,GBR,2000,2310.55
+United Kingdom,GBR,2001,2395.12
+United Kingdom,GBR,2002,2487.33
+United Kingdom,GBR,2003,2598.44
+United Kingdom,GBR,2004,2722.10
+France,FRA,2000,2205.11
+France,FRA,2001,2290.44
+France,FRA,2002,2388.70
+France,FRA,2003,2497.32
+France,FRA,2004,2610.88
+Kenya,KEN,2000,64.13
+Kenya,KEN,2001,66.91
+Kenya,KEN,2002,69.20
+Kenya,KEN,2003,72.45
+Kenya,KEN,2004,76.03
+
