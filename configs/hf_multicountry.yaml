@@ -1,0 +1,19 @@
+data:
+  path: "data/raw/health_expenditure_sample.csv"  # or ...all_countries.csv
+  context_length: 10
+  prediction_length: 5
+  input_size: 1
+
+model:
+  d_model: 64
+  n_heads: 4
+  num_encoder_layers: 4
+  num_decoder_layers: 4
+  dropout: 0.1
+  lags: [1]
+
+training:
+  batch_size: 32
+  epochs: 40
+  learning_rate: 0.0005
+
