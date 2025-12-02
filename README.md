@@ -26,7 +26,6 @@ multi-feature time series
 autoregressive or direct multi-step forecasting
 
 ### Repository Structure
-CLI scripts for training and evaluation
 ```text
 ts-transformer-spending/
 │
